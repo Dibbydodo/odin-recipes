@@ -7,4 +7,4 @@ This website is a showcase of the HTML knowledge that I have gained from the fou
 - Using various heading tags
 - Linking images and creating hyperlinks
 - Creating unordered and ordered lists
-`
+
