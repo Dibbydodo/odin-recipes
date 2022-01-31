@@ -4,6 +4,7 @@ This website is a showcase of the HTML knowledge that I have gained from the fou
 
 - Organising file structure of a website
 - Inputing HTML boilerplate as a template
-- Using various <h> tags
+- Using various heading tags
 - Linking images and creating hyperlinks
 - Creating unordered and ordered lists
+`
