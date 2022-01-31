@@ -1,4 +1,4 @@
-# odin-recepies
+# odin-recipes
 
 This website is a showcase of the HTML knowledge that I have gained from the foundations course of the Odin Project. Within this website, I will show the skills of:
 
